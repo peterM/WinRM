@@ -81,4 +81,3 @@ $command = {
 }
 
 Invoke-Command -ComputerName (Get-Content .\Machines.txt) -ScriptBlock $command -Credential $cred
-#  Invoke-Command -ComputerName '001-VRT-TCA040' -ScriptBlock $command -Credential $cred
