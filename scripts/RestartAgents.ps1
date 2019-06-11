@@ -1,6 +1,6 @@
 # MIT License
 # 
-# Copyright (c) 2019 Peter Malík (MalikP.)
+# Copyright (c) 2019 Peter MalÃ­k (MalikP.)
 # Repository: https://github.com/peterM/WinRM
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
