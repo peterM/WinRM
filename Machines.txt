@@ -1,0 +1,7 @@
+machine0.domain.local
+machine1.domain.local
+machine2.domain.local
+machine3.domain.local
+machine4.domain.local
+machine5.domain.local
+machine6.domain.local
